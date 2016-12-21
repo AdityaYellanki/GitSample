@@ -2,4 +2,15 @@ This is Git Sample
 
 THis is another line of code
 
+<<<<<<< HEAD
 24th line
+=======
+23d new line dsfsdfsd fsdfsdfsfsd
+>>>>>>> c24ae8c974cf1242cac3fae2e8e7faa333521b4d
+
+
+
+
+
+
+Another line
